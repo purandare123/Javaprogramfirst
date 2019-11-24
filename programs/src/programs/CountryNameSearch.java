@@ -7,7 +7,7 @@ public class CountryNameSearch {
 
 	public static void main(String[] args) {
 		
-		 int len;
+ 	 int len;
          String countryname;
          
          Scanner sc=new Scanner(System.in);
@@ -29,9 +29,9 @@ public class CountryNameSearch {
          al.add("Japan");
          al.add("South Koria");
          al.add("philippines");
-		 al.add("Nigeria");
-		 al.add("Niger");
-		 al.add("Indonesia");
+ 	 al.add("Nigeria");
+         al.add("Niger");
+	 al.add("Indonesia");
 		 
 		for(int i=0;i<al.size();i++)
 		{
